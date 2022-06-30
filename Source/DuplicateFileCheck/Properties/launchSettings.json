@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DuplicateFileCheck": {
+      "commandName": "Project",
+      "commandLineArgs": "-p C:\\Github\\CSharpCodes C:\\Github\\JingShiZiJi -w true -l C:\\Temp"
+    }
+  }
+}
